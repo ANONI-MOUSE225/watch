@@ -1,0 +1,9 @@
+.wrapper {
+    width: 450px;
+    height: 150px;
+    color: white;
+    background-color: grey;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 20px;
+}
